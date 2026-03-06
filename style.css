@@ -1,0 +1,31 @@
+#pets{
+    height:600px;
+    width:70%;
+    display:flex;
+    justify-content:space-around;
+    margin-left:240px;
+}
+.card{
+    height:460px;
+    width:35%;
+    border: 2px solid black;
+    padding: 10px;
+    border-radius:15px;
+}
+img{
+    height:170px;
+    width: 100%;
+    border-radius: 10px;
+}
+h2{
+    color: orangered;
+}
+span{
+    color: brown;
+}
+.q{
+    text-align: end;
+    margin-right: 100px;
+    color: goldenrod;
+    font-size:25px
+}
